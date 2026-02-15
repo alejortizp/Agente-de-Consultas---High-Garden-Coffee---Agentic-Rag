@@ -1,0 +1,10 @@
+services:
+  agente:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - ./plots:/app/plots
+      - ./coffee_final.csv:/app/coffee_final.csv
+    stdin_open: true
+    tty: true
