@@ -14,3 +14,6 @@ CLAUDE.md
 /.agent
 /.agents
 /.claude
+/.ruff_cache
+/.pytest_cache
+__pycache__
