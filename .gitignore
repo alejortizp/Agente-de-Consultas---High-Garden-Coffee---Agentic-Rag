@@ -8,3 +8,4 @@ coffe_db.parquet
 *.gif
 *.mp4
 /plots
+*:Zone.Identifier
