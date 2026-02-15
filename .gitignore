@@ -1,7 +1,7 @@
 .env
 coffe_db.parquet
 *.csv
-/mi_entorno
+/.venv
 *.png
 *.jpg
 *.jpeg
@@ -9,3 +9,5 @@ coffe_db.parquet
 *.mp4
 /plots
 *:Zone.Identifier
+CLAUDE.md
+*.pptx
