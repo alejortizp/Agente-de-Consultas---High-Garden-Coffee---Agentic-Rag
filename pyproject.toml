@@ -4,4 +4,18 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "dataclasses>=0.8",
+    "datetime>=6.0",
+    "langchain>=1.2.10",
+    "langchain-experimental>=0.4.1",
+    "langchain-openai>=1.1.9",
+    "logging>=0.4.9.6",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.2",
+    "pandas>=3.0.0",
+    "pathlib>=1.0.1",
+    "pyarrow>=23.0.0",
+    "seaborn>=0.13.2",
+    "typing>=3.10.0.0",
+]
