@@ -11,3 +11,6 @@ coffe_db.parquet
 *:Zone.Identifier
 CLAUDE.md
 *.pptx
+/.agent
+/.agents
+/.claude
