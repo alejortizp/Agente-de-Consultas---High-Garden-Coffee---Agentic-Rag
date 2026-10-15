@@ -17,3 +17,7 @@ CLAUDE.md
 /.ruff_cache
 /.pytest_cache
 __pycache__
+*.pdf
+*.log
+~$*
+*.pyc

@@ -1,6 +1,6 @@
 # Agente de Consultas - High Garden Coffee
 
-agente conversacional de análisis de datos para la empresa exportadora de café **High Garden Coffee**.
+Agente conversacional de análisis de datos para la empresa exportadora de café **High Garden Coffee**.
 
 ## Contexto del Problema
 
@@ -93,10 +93,8 @@ Para salir: `salir`, `exit` o `quit`.
 ├── coffee_final.csv           # Dataset transformado (generado)
 ├── improved_data_agent.py     # Agente conversacional principal
 ├── plots/                     # Gráficas generadas (auto-creado)
-├── data_agent.log             # Logs de ejecución
 ├── pyproject.toml             # Configuración del proyecto y dependencias
-├── uv.lock                    # Lockfile de dependencias
-
+└── uv.lock                    # Lockfile de dependencias
 ```
 
 ## Decisiones de Diseño
